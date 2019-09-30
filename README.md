@@ -4,5 +4,6 @@ Soal "Carilah nilai a, c dan m pada LCM  agar dalam 100 kali pembangkitan  bilan
 
 materi:
 [Bab 3 - Bilangan Acak](https://drive.google.com/open?id=1-f4zRxHnlvbltI8nQMpEdYivGiVdWVBO)
+
 Kode untuk matlab:
 [Kode Matlab](https://github.com/mojila/generate-number-lcm/tree/matlab-version)
